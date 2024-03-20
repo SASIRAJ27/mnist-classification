@@ -163,8 +163,8 @@ print(x_single_prediction)
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![1](https://github.com/SASIRAJ27/mnist-classification/assets/113497176/6177c00e-afd5-4e25-83e3-e4de293899f5)
-![2](https://github.com/SASIRAJ27/mnist-classification/assets/113497176/00264738-4ab8-4cb7-8087-1e2a256ec3fe)
+![1](https://github.com/SASIRAJ27/mnist-classification/assets/113497176/997e40fe-4f49-4fe1-9f7b-29e4a1b3548e)
+![2](https://github.com/SASIRAJ27/mnist-classification/assets/113497176/610b5f88-47b3-48c6-8a27-a248f1a31746)
 
 
 
